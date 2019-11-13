@@ -1,0 +1,18 @@
+{
+  "pages": [
+   
+    "pages/index/index",
+    "pages/detail/detail"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Demo01",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+ 
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
